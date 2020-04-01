@@ -37,6 +37,8 @@ local background = fe.add_image("bez.png", 0, 0, flw, flh );
 local upimage = fe.add_image("1up.png", flx*0.075, fly*0.4, flw*0.2, flh*0.2 );
 local upimage = fe.add_image("1up.png", flx*0.725, fly*0.4, flw*0.2, flh*0.2 );
 
+local background = fe.add_image("select.png", flx*0.21, fly*0.325, flw*0.58, flh*0.35 );
+
 //////////////////////////////////////////////////////////////////////////////////
 // The following section sets up what type and wheel and displays the users choice
 
